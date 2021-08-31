@@ -58,7 +58,6 @@ public class BaseClass {
 //	@BeforeClass
 //	public void configBC(String Browser) {
 //		System.out.println("=====Launching Browser=======");
-//		// Object creation for Utilities
 //		if(Browser.equals("chrome")) {
 //			driver=new ChromeDriver();
 //		}else if(Browser.equals("firefox")) {
